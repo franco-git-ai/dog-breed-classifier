@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 # */AIPND-revision/intropyproject-classify-pet-images/get_pet_labels_hints.py
 #                                                                             
 # PROGRAMMER:  Francesco Venale
